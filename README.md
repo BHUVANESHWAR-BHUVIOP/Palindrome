@@ -1,4 +1,5 @@
-# Palindrome
+# EX-2 Palindrome
+## Date:
 
 
 ## Aim:
